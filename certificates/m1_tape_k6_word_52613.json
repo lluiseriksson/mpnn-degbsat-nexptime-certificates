@@ -1,0 +1,27 @@
+{
+  "schema": "MPNN-DEGBSAT-CERT-1.0",
+  "mode": "tape_encoding_lemma31_cert",
+  "cert_id": "m1_tape_k6_word_52613",
+  "alphabet_k": 6,
+  "blank_sym": 6,
+  "word": [
+    5,
+    2,
+    6,
+    1,
+    3
+  ],
+  "push_sym": 4,
+  "claimed_enc_word": "153299/229376",
+  "claimed_enc_pushed": "1070803/1835008",
+  "claimed_enc_tail": "9939/28672",
+  "claimed_head_sym": 5,
+  "claimed_pop_in_I_flags": [
+    false,
+    false,
+    false,
+    false,
+    true,
+    false
+  ]
+}

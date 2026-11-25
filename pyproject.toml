@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mpnn-degbsat-nexptime-certificates"
+version = "1.0.0"
+description = "Machine-checked Lean 4.35.0 proofs and exact-Q certificate verifier MPNN-DEGBSAT-CERT-1.0 for Marco Sälzer (arXiv:2611.32595)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "Lluis Eriksson"}]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0", "matplotlib>=3.8"]

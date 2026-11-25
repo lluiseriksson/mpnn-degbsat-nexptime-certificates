@@ -1,0 +1,88 @@
+{
+  "rows": [
+    {
+      "height_h": 1,
+      "mpnn_layers": 3,
+      "label_dim": 28,
+      "run_length_2h": 2,
+      "tree_nodes": 3
+    },
+    {
+      "height_h": 2,
+      "mpnn_layers": 4,
+      "label_dim": 42,
+      "run_length_2h": 4,
+      "tree_nodes": 7
+    },
+    {
+      "height_h": 3,
+      "mpnn_layers": 5,
+      "label_dim": 56,
+      "run_length_2h": 8,
+      "tree_nodes": 15
+    },
+    {
+      "height_h": 4,
+      "mpnn_layers": 6,
+      "label_dim": 70,
+      "run_length_2h": 16,
+      "tree_nodes": 31
+    },
+    {
+      "height_h": 5,
+      "mpnn_layers": 7,
+      "label_dim": 84,
+      "run_length_2h": 32,
+      "tree_nodes": 63
+    },
+    {
+      "height_h": 6,
+      "mpnn_layers": 8,
+      "label_dim": 98,
+      "run_length_2h": 64,
+      "tree_nodes": 127
+    },
+    {
+      "height_h": 7,
+      "mpnn_layers": 9,
+      "label_dim": 112,
+      "run_length_2h": 128,
+      "tree_nodes": 255
+    },
+    {
+      "height_h": 8,
+      "mpnn_layers": 10,
+      "label_dim": 126,
+      "run_length_2h": 256,
+      "tree_nodes": 511
+    },
+    {
+      "height_h": 9,
+      "mpnn_layers": 11,
+      "label_dim": 140,
+      "run_length_2h": 512,
+      "tree_nodes": 1023
+    },
+    {
+      "height_h": 10,
+      "mpnn_layers": 12,
+      "label_dim": 154,
+      "run_length_2h": 1024,
+      "tree_nodes": 2047
+    },
+    {
+      "height_h": 11,
+      "mpnn_layers": 13,
+      "label_dim": 168,
+      "run_length_2h": 2048,
+      "tree_nodes": 4095
+    },
+    {
+      "height_h": 12,
+      "mpnn_layers": 14,
+      "label_dim": 182,
+      "run_length_2h": 4096,
+      "tree_nodes": 8191
+    }
+  ]
+}

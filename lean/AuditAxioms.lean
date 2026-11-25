@@ -1,0 +1,20 @@
+import MPNNDegBSat
+
+#print axioms MPNNDegBSat.interval_I_well_formed
+#print axioms MPNNDegBSat.blank_encoding_in_I
+#print axioms MPNNDegBSat.blank_encoding_fixed_point
+#print axioms MPNNDegBSat.push_preserves_I_cleared
+#print axioms MPNNDegBSat.pop_push_left_inverse_cleared
+#print axioms MPNNDegBSat.push_pop_right_inverse_cleared
+#print axioms MPNNDegBSat.lemma31_pop_separates_wrong_symbol_gt
+#print axioms MPNNDegBSat.lemma31_pop_separates_wrong_symbol_lt
+#print axioms MPNNDegBSat.lemma31_pop_in_I_iff_eq
+#print axioms MPNNDegBSat.delta_polyhedron_count_exact
+#print axioms MPNNDegBSat.relu_nonneg_and_zero_iff
+#print axioms MPNNDegBSat.lemma51_relu_min_exact
+#print axioms MPNNDegBSat.lemma51_poly_violation_zero_iff
+#print axioms MPNNDegBSat.lemma51_union_min_zero_iff
+#print axioms MPNNDegBSat.theorem61_label_dim_exact
+#print axioms MPNNDegBSat.theorem61_binary_tree_node_count
+#print axioms MPNNDegBSat.theorem61_degree_at_most_3
+#print axioms MPNNDegBSat.theorem61_final_layer_accept_iff_zero

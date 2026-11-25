@@ -1,0 +1,18 @@
+{
+  "schema": "MPNN-DEGBSAT-CERT-1.0",
+  "mode": "tape_encoding_lemma31_cert",
+  "cert_id": "m1_tape_k3_empty_fixedpt",
+  "alphabet_k": 3,
+  "blank_sym": 3,
+  "word": [],
+  "push_sym": 2,
+  "claimed_enc_word": "3/4",
+  "claimed_enc_pushed": "11/20",
+  "claimed_enc_tail": "3/4",
+  "claimed_head_sym": 3,
+  "claimed_pop_in_I_flags": [
+    false,
+    false,
+    true
+  ]
+}

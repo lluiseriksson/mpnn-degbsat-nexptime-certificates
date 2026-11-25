@@ -1,0 +1,114 @@
+{
+  "schema": "MPNN-DEGBSAT-CERT-1.0",
+  "mode": "polyhedral_ntm_delta_lemma41_cert",
+  "cert_id": "m2_ntm_h2_4steps_padded",
+  "ntm": {
+    "alphabet_k": 3,
+    "blank_sym": 3,
+    "num_states": 3,
+    "q_accept": 2,
+    "transitions": [
+      {
+        "q1": 0,
+        "a1": 1,
+        "q2": 0,
+        "a_prime": 2,
+        "dir": "R"
+      },
+      {
+        "q1": 0,
+        "a1": 2,
+        "q2": 1,
+        "a_prime": 1,
+        "dir": "R"
+      },
+      {
+        "q1": 0,
+        "a1": 3,
+        "q2": 2,
+        "a_prime": 3,
+        "dir": "L"
+      },
+      {
+        "q1": 1,
+        "a1": 3,
+        "q2": 2,
+        "a_prime": 3,
+        "dir": "L"
+      },
+      {
+        "q1": 1,
+        "a1": 1,
+        "q2": 1,
+        "a_prime": 1,
+        "dir": "R"
+      }
+    ]
+  },
+  "input_word": [
+    1,
+    2
+  ],
+  "height_h": 2,
+  "run_configs": [
+    {
+      "left": [],
+      "state": 0,
+      "head": 1,
+      "right": [
+        2
+      ]
+    },
+    {
+      "left": [
+        2
+      ],
+      "state": 0,
+      "head": 2,
+      "right": []
+    },
+    {
+      "left": [
+        1,
+        2
+      ],
+      "state": 1,
+      "head": 3,
+      "right": []
+    },
+    {
+      "left": [
+        2
+      ],
+      "state": 2,
+      "head": 1,
+      "right": [
+        3
+      ]
+    },
+    {
+      "left": [
+        2
+      ],
+      "state": 2,
+      "head": 1,
+      "right": [
+        3
+      ]
+    }
+  ],
+  "claimed_delta_poly_count": 18,
+  "claimed_num_steps": 4,
+  "claimed_enc_init": [
+    "3/4",
+    "0",
+    "11/20"
+  ],
+  "claimed_enc_final": [
+    "11/20",
+    "2/3",
+    "3/4"
+  ],
+  "claimed_all_steps_in_delta": true,
+  "claimed_final_in_F": true
+}

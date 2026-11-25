@@ -1,0 +1,18 @@
+{
+  "title": "Certified Verification of NEXPTIME-Hardness for Degree-Bounded Local-Sum MPNN Satisfiability",
+  "authors": ["Lluis Eriksson"],
+  "abstract": "Marco Salzer (arXiv:2611.32595, Nov 2026) proved that degree-bounded satisfiability (DEGBSAT) for local-sum Message Passing Neural Networks with ReLU activations and rational node labels is NEXPTIME-hard even at fixed degree bound d = 3, closing the PSPACE-vs-NEXP gap via a proof architecture proposed by GPT-6 Astra. We present a standalone zero-dependency Lean 4.35.0 formalization of 18 core rational-encoding, polyhedral-count, ReLU-FNN, and MPNN acceptance theorems (zero sorry, zero warnings, zero Classical.choice) paired with an exact-Q four-mode certificate verifier (MPNN-DEGBSAT-CERT-1.0) that executes Salzer's full (h+2)-layer MPNN M_w without floating-point arithmetic. Across 16 canonical certificates (0.080-114.497 ms, total 286.40 ms), all invariants replay identically over Q while rejecting 62/62 live adversarial forgery attacks.",
+  "category": "cs.CC",
+  "license": "CC-BY-4.0",
+  "code_license": "MIT",
+  "repository_url": "https://github.com/lluiseriksson/mpnn-degbsat-nexptime-certificates",
+  "release_tag": "v1.0.0",
+  "operator_conflict": true,
+  "ai_assistance_disclosure": "Prepared by sole author Lluis Eriksson with AI coding, formalization, and drafting assistance from Google Antigravity; all Lean 4.35.0 proofs, exact-Q certificates, and adversarial tests were independently compiled and machine-verified locally.",
+  "target_reference": {
+    "arxiv_id": "2611.32595",
+    "authors": ["Marco Salzer"],
+    "title": "Degree-bounded Satisfiability of Local MPNNs with Sum Aggregation is NEXPTIME-hard",
+    "date": "2026-11-24"
+  }
+}

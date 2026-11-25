@@ -1,0 +1,209 @@
+{
+  "rows": [
+    {
+      "x": 0.0,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 0.1,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 0.2,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 0.3,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 0.4,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 0.5,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 0.6,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 0.7,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 0.8,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 0.9,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 1.0,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 1.1,
+      "fnn_violation": 0.2,
+      "in_union": false
+    },
+    {
+      "x": 1.2,
+      "fnn_violation": 0.4,
+      "in_union": false
+    },
+    {
+      "x": 1.3,
+      "fnn_violation": 0.6,
+      "in_union": false
+    },
+    {
+      "x": 1.4,
+      "fnn_violation": 0.8,
+      "in_union": false
+    },
+    {
+      "x": 1.5,
+      "fnn_violation": 1.0,
+      "in_union": false
+    },
+    {
+      "x": 1.6,
+      "fnn_violation": 1.2,
+      "in_union": false
+    },
+    {
+      "x": 1.7,
+      "fnn_violation": 1.4,
+      "in_union": false
+    },
+    {
+      "x": 1.8,
+      "fnn_violation": 1.6,
+      "in_union": false
+    },
+    {
+      "x": 1.9,
+      "fnn_violation": 1.8,
+      "in_union": false
+    },
+    {
+      "x": 2.0,
+      "fnn_violation": 2.0,
+      "in_union": false
+    },
+    {
+      "x": 2.1,
+      "fnn_violation": 1.8,
+      "in_union": false
+    },
+    {
+      "x": 2.2,
+      "fnn_violation": 1.6,
+      "in_union": false
+    },
+    {
+      "x": 2.3,
+      "fnn_violation": 1.4,
+      "in_union": false
+    },
+    {
+      "x": 2.4,
+      "fnn_violation": 1.2,
+      "in_union": false
+    },
+    {
+      "x": 2.5,
+      "fnn_violation": 1.0,
+      "in_union": false
+    },
+    {
+      "x": 2.6,
+      "fnn_violation": 0.8,
+      "in_union": false
+    },
+    {
+      "x": 2.7,
+      "fnn_violation": 0.6,
+      "in_union": false
+    },
+    {
+      "x": 2.8,
+      "fnn_violation": 0.4,
+      "in_union": false
+    },
+    {
+      "x": 2.9,
+      "fnn_violation": 0.2,
+      "in_union": false
+    },
+    {
+      "x": 3.0,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 3.1,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 3.2,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 3.3,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 3.4,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 3.5,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 3.6,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 3.7,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 3.8,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 3.9,
+      "fnn_violation": 0.0,
+      "in_union": true
+    },
+    {
+      "x": 4.0,
+      "fnn_violation": 0.0,
+      "in_union": true
+    }
+  ]
+}

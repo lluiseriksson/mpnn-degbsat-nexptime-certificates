@@ -1,0 +1,36 @@
+{
+  "rows": [
+    {
+      "cert_id": "m4_mpnn_h1_tree_accept",
+      "nodes": 3,
+      "max_deg": 2,
+      "accepted": true,
+      "output": "1",
+      "verify_ms": 18.112
+    },
+    {
+      "cert_id": "m4_mpnn_h2_tree_deg3_accept",
+      "nodes": 7,
+      "max_deg": 3,
+      "accepted": true,
+      "output": "1",
+      "verify_ms": 46.675
+    },
+    {
+      "cert_id": "m4_mpnn_h3_tree_8steps_accept",
+      "nodes": 15,
+      "max_deg": 3,
+      "accepted": true,
+      "output": "1",
+      "verify_ms": 114.497
+    },
+    {
+      "cert_id": "m4_mpnn_h2_corrupted_leaf_reject",
+      "nodes": 7,
+      "max_deg": 3,
+      "accepted": false,
+      "output": "2/5",
+      "verify_ms": 47.218
+    }
+  ]
+}

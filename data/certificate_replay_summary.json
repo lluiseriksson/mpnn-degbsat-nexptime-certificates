@@ -1,0 +1,205 @@
+{
+  "count": 16,
+  "certificates": [
+    {
+      "cert_id": "m1_tape_k3_empty_fixedpt",
+      "mode": "tape_encoding_lemma31_cert",
+      "verify_ms": 0.084,
+      "summary": {
+        "verified": true,
+        "mode": "tape_encoding_lemma31_cert",
+        "k": 3,
+        "base_b": 5,
+        "enc_word": "3/4",
+        "head_sym": 3
+      }
+    },
+    {
+      "cert_id": "m1_tape_k3_word_121",
+      "mode": "tape_encoding_lemma31_cert",
+      "verify_ms": 0.08,
+      "summary": {
+        "verified": true,
+        "mode": "tape_encoding_lemma31_cert",
+        "k": 3,
+        "base_b": 5,
+        "enc_word": "147/500",
+        "head_sym": 1
+      }
+    },
+    {
+      "cert_id": "m1_tape_k4_word_3142",
+      "mode": "tape_encoding_lemma31_cert",
+      "verify_ms": 0.083,
+      "summary": {
+        "verified": true,
+        "mode": "tape_encoding_lemma31_cert",
+        "k": 4,
+        "base_b": 6,
+        "enc_word": "1777/3240",
+        "head_sym": 3
+      }
+    },
+    {
+      "cert_id": "m1_tape_k6_word_52613",
+      "mode": "tape_encoding_lemma31_cert",
+      "verify_ms": 0.093,
+      "summary": {
+        "verified": true,
+        "mode": "tape_encoding_lemma31_cert",
+        "k": 6,
+        "base_b": 8,
+        "enc_word": "153299/229376",
+        "head_sym": 5
+      }
+    },
+    {
+      "cert_id": "m2_ntm_h1_2steps_exact",
+      "mode": "polyhedral_ntm_delta_lemma41_cert",
+      "verify_ms": 5.394,
+      "summary": {
+        "verified": true,
+        "mode": "polyhedral_ntm_delta_lemma41_cert",
+        "delta_polys": 18,
+        "steps": 2
+      }
+    },
+    {
+      "cert_id": "m2_ntm_h2_4steps_padded",
+      "mode": "polyhedral_ntm_delta_lemma41_cert",
+      "verify_ms": 10.62,
+      "summary": {
+        "verified": true,
+        "mode": "polyhedral_ntm_delta_lemma41_cert",
+        "delta_polys": 18,
+        "steps": 4
+      }
+    },
+    {
+      "cert_id": "m2_ntm_h2_4steps_k4_lr",
+      "mode": "polyhedral_ntm_delta_lemma41_cert",
+      "verify_ms": 14.987,
+      "summary": {
+        "verified": true,
+        "mode": "polyhedral_ntm_delta_lemma41_cert",
+        "delta_polys": 24,
+        "steps": 4
+      }
+    },
+    {
+      "cert_id": "m2_ntm_h3_8steps_padded",
+      "mode": "polyhedral_ntm_delta_lemma41_cert",
+      "verify_ms": 20.855,
+      "summary": {
+        "verified": true,
+        "mode": "polyhedral_ntm_delta_lemma41_cert",
+        "delta_polys": 18,
+        "steps": 8
+      }
+    },
+    {
+      "cert_id": "m3_relu_2d_disjoint_boxes",
+      "mode": "relu_polyhedra_union_lemma51_cert",
+      "verify_ms": 0.361,
+      "summary": {
+        "verified": true,
+        "mode": "relu_polyhedra_union_lemma51_cert",
+        "num_polyhedra": 2,
+        "num_queries": 4,
+        "inside_count": 2
+      }
+    },
+    {
+      "cert_id": "m3_relu_ntm_accept_set_F",
+      "mode": "relu_polyhedra_union_lemma51_cert",
+      "verify_ms": 0.814,
+      "summary": {
+        "verified": true,
+        "mode": "relu_polyhedra_union_lemma51_cert",
+        "num_polyhedra": 3,
+        "num_queries": 4,
+        "inside_count": 2
+      }
+    },
+    {
+      "cert_id": "m3_relu_ntm_delta_subset_6d",
+      "mode": "relu_polyhedra_union_lemma51_cert",
+      "verify_ms": 5.677,
+      "summary": {
+        "verified": true,
+        "mode": "relu_polyhedra_union_lemma51_cert",
+        "num_polyhedra": 6,
+        "num_queries": 4,
+        "inside_count": 2
+      }
+    },
+    {
+      "cert_id": "m3_relu_3d_nonconvex_3union",
+      "mode": "relu_polyhedra_union_lemma51_cert",
+      "verify_ms": 0.847,
+      "summary": {
+        "verified": true,
+        "mode": "relu_polyhedra_union_lemma51_cert",
+        "num_polyhedra": 3,
+        "num_queries": 5,
+        "inside_count": 3
+      }
+    },
+    {
+      "cert_id": "m4_mpnn_h1_tree_accept",
+      "mode": "local_sum_mpnn_deg3_theorem61_cert",
+      "verify_ms": 18.112,
+      "summary": {
+        "verified": true,
+        "mode": "local_sum_mpnn_deg3_theorem61_cert",
+        "nodes": 3,
+        "edges": 2,
+        "max_deg": 2,
+        "accepted": true,
+        "output": "1"
+      }
+    },
+    {
+      "cert_id": "m4_mpnn_h2_tree_deg3_accept",
+      "mode": "local_sum_mpnn_deg3_theorem61_cert",
+      "verify_ms": 46.675,
+      "summary": {
+        "verified": true,
+        "mode": "local_sum_mpnn_deg3_theorem61_cert",
+        "nodes": 7,
+        "edges": 6,
+        "max_deg": 3,
+        "accepted": true,
+        "output": "1"
+      }
+    },
+    {
+      "cert_id": "m4_mpnn_h3_tree_8steps_accept",
+      "mode": "local_sum_mpnn_deg3_theorem61_cert",
+      "verify_ms": 114.497,
+      "summary": {
+        "verified": true,
+        "mode": "local_sum_mpnn_deg3_theorem61_cert",
+        "nodes": 15,
+        "edges": 14,
+        "max_deg": 3,
+        "accepted": true,
+        "output": "1"
+      }
+    },
+    {
+      "cert_id": "m4_mpnn_h2_corrupted_leaf_reject",
+      "mode": "local_sum_mpnn_deg3_theorem61_cert",
+      "verify_ms": 47.218,
+      "summary": {
+        "verified": true,
+        "mode": "local_sum_mpnn_deg3_theorem61_cert",
+        "nodes": 7,
+        "edges": 6,
+        "max_deg": 3,
+        "accepted": false,
+        "output": "2/5"
+      }
+    }
+  ]
+}
